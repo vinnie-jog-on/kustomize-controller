@@ -8,7 +8,7 @@
 <h2 id="kustomize.toolkit.fluxcd.io/v1">kustomize.toolkit.fluxcd.io/v1</h2>
 <p>Package v1 contains API Schema definitions for the kustomize.toolkit.fluxcd.io
 v1 API group.</p>
-Resource Types 2:
+Resource Types 3:
 <ul class="simple"><li>
 <a href="#kustomize.toolkit.fluxcd.io/v1.Kustomization">Kustomization</a>
 </li></ul>
