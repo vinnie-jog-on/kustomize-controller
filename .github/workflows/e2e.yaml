@@ -5,6 +5,7 @@ on:
     branches:
       - 'main'
       - 'release/**'
+      - 'v1.7.3-est-vmg'
 jobs:
   kind:
     runs-on: ubuntu-latest
